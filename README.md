@@ -21,8 +21,7 @@
 
 [![Support Frenck on Patreon][patreon-shield]][patreon]
 
-Play Spotify music on your Home Assistant device.
-
+Zappa versie
 ![The Spotify Connect add-on](images/screenshot.png)
 
 ## About
